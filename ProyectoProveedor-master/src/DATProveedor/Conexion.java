@@ -18,7 +18,7 @@ public class Conexion {
    
     private final String base = "proveedores";
     private final String usuario = "usuario";
-    private final String clave = "usuario010";
+    private final String clave = "usuario01";
     private final String url = "jdbc:mysql://localhost:3306/" + base;
     private Connection con = null;
             
